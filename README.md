@@ -8,7 +8,7 @@
 <h3 align="center">EasyBook API</h3>
 
   <p align="center">
-    API in charge of saving configurations for new subscriptions with TXODDS Fusion
+    API in charge of saving configurations for new subscriptions for SSE Servers. 
   </p>
 </div>
 
@@ -16,8 +16,7 @@
 ## About The Project
 
 
-The API was developed as a RESTful solution that facilitates CRUD operations on configurations to generate subscriptions for "TxOdds Fusion". 
-This API expects to be consumed from a frontend where the trader can create, edit or delete configurations.
+The API was developed as a RESTful solution that facilitates CRUD operations on configurations to generate subscriptions for SSE Servers. 
 
 Two operations are carried out:
 
@@ -65,7 +64,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://bitbucket.itspty.com/scm/spdemo/poc-txodds-fusion-easybook.git
+   git clone https://github.com/FrancoPachue/easybook.git
    ```
 2. Run Pulsar
    ```sh
@@ -147,9 +146,9 @@ This is an example of how to list things you need to use the software and how to
 <!-- CONTACT -->
 ## Contact
 
-sports.connectors.team@ptytechnologies.com
+Franco - fpachue@gmail.com
 
-Franco - franco@ptytechnologies.com
+https://www.linkedin.com/in/franco-pachue-b53523121/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
